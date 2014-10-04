@@ -1,8 +1,0 @@
-<resources>
-
-    <item name="hellomoon_playButton" type="id"/>
-    <item name="hellomoon_pauseButton" type="id"/>
-    <item name="hellomoon_stopButton" type="id"/>
-    <item name="hellomoon_fragment" type="id"/>
-
-</resources>
